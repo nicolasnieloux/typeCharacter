@@ -1,2 +1,5 @@
-package com.character.perso;public enum Type {
+package com.character.perso;
+
+public enum Type {
+    Magicien, Guerrier
 }
